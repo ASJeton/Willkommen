@@ -16,4 +16,4 @@ Trainingsgruppe.
 Wenn ihr die die GitHub-Gruppe "AS Jeton" als registrierte Benutzer aufgenommen werden möchtet,
 klickt hier: https://github.com/ASJeton/Willkommen/issues/1.
 
-
+Ihr könnt hier auch gern Sachen ausprobieren. Das Repository ist zum Spielen da!
