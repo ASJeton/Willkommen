@@ -4,7 +4,7 @@ GitHub ist ein kostenloser Service von Microsoft, eigentlich für die Unterstüt
 gedacht, jedoch für uns gut nutzbar. Derzeit gibt es keine Speicherplatzbegrenzung.
 
 GitHub-ASJeton enthält mehrere Bereiche (Repositories). Einige sind öffentlich, andere sind nur für
-registrieren Mitglieder zugänglich.
+registrierte Mitglieder zugänglich.
 
 In den Repositiories können Inhalte abgelegt werden, z. B. Bilder, Videos und Texte.
 Die öffentlichen Reposititories haben ein Wiki, in den z. B. Bauanleitungen eingestellt werden können.
